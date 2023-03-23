@@ -1,0 +1,151 @@
+
+
+.con {
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+
+.part2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 50%;
+}
+
+.part3 {
+    background-color: rgb(218, 213, 213);
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 5px;
+    height: 50px;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    
+}
+
+.part1 {
+    background-size: auto;
+    width: 650px;
+    background-image: url('hbz-best-animated-movies-dumbo-1504150286.jpg');
+    background-size: cover;
+    
+    
+ 
+    
+
+}
+
+.p2 {
+    background: url("The-Flintstones.jpg") ;
+    background-size: auto;
+    height: 200px;
+    width: 350px;
+    background-size: cover;
+}
+
+.p3 {
+    background-image: url(image.jpg) ;
+    background-size: auto;
+    background-size: cover;
+    width: 350px;
+    height: 200px;
+
+
+}
+
+.t1 {
+    background-color: skyblue;
+}
+
+.t2 {
+    background-color: rgb(58, 165, 58);
+}
+
+h4 {
+    font-size: 16px;
+    color: orangered;
+    font-weight: bolder;
+}
+
+h1 {
+    color: orangered;
+}
+
+h2 {
+    color: white;
+}
+ 
+p {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+h6 {
+    color: white;
+
+}
+
+.part3 {
+    width: 100%;
+}
+
+.ic1 {
+    background-color: orangered;
+   height: 30px;
+   padding: 5px;
+   margin: 5px;
+   width: 150px;
+}
+
+.ic2 {
+    background-color: white;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    width: 150px;
+
+
+}
+
+.ic3 {
+    background-color: white;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    width: 150px;
+
+
+
+}
+
+.ic4 {
+    background-color: white;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    width: 150px;
+
+
+
+}
+
+.ic5 {
+    background-color: white;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    width: 150px;
+
+
+
+}

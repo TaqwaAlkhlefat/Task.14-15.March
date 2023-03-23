@@ -1,0 +1,69 @@
+
+
+.all{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.leftpart {
+    width: 55%;
+}
+
+.img {
+    width: 45%;
+    margin: 5px;
+
+    
+   
+}
+
+.leftpart {
+    display: flex;
+    flex-direction: column;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+h4 {
+    color:rgb(54, 187, 187);
+    
+}
+
+.p1 {
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.p2 {
+    font-weight: bold;
+}
+
+.p3 {
+    color: rgb(54, 187, 187) ;
+    margin: 5px;
+}
+
+.trial span{
+	padding: 10px;
+    background-color:rgb(54, 187, 187);
+    margin: 5px;
+   
+ }
+
+ .phon {
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    margin: 10px;
+ }
+

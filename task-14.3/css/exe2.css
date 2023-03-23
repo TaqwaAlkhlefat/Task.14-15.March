@@ -1,0 +1,50 @@
+
+
+.con {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 5px 5px;
+}
+
+.con>div {
+    background-color: yellow;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.item3 {
+    grid-row: 1 ;
+    grid-column: 1;
+
+}
+
+.item4 {
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.item6 {
+    grid-column: 4;
+    grid-row: 1;
+}
+
+.item7 {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.item8 {
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.item5 {
+    grid-column: 3;
+    grid-row: 2;
+}
+
+.item1 {
+    grid-column: 4;
+    grid-row: 2;
+}

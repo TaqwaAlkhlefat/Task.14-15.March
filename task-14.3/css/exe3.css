@@ -1,0 +1,11 @@
+
+
+
+
+.grid-con {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    gap: 5px 5px;
+}
+
+

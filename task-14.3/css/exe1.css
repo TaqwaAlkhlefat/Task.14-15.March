@@ -1,0 +1,39 @@
+
+
+.grid-con {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 5px 5px;
+}
+
+
+.black {
+    background-color: black;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    height: 60px;
+}
+
+.orange {
+    background-color: orange;
+    color: orange;
+    width: 1000px;
+    height: 200px;
+ 
+}
+
+.green {
+    background-color: green;
+    color: green;
+    width: 350px;
+    height: 200px;
+
+}
+
+.blue {
+    background-color: blue;
+    color: blue;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    height: 80px;
+}

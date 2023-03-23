@@ -1,0 +1,150 @@
+
+
+div {
+    
+    color: rgb(218, 212, 212);
+    text-align: center;
+    margin: 3px;
+    
+    
+}
+
+.con {
+    display: grid;
+}
+
+.line1 {
+    display: grid;
+    grid-template-columns: auto;
+    width: 100%;
+    height: 50px;
+    gap:  10PX ;
+    background-color: dodgerblue;
+    padding: 5px;
+    
+    
+
+}
+
+.line2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 100%;
+    height: 50PX;
+    gap: 0PX 5px;
+    
+    
+
+}
+
+.line3 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 100%;
+    height: 50PX;
+    gap: 0PX 5px;
+}
+
+.line4 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 100%;
+    height: 50PX;
+    gap: 0PX 5px;
+}
+
+.line5 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    width: 100%;
+    height: 50PX;
+    gap: 0px 5px;
+}
+.line6 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    width: 100%;
+    height: 50PX;
+    gap: 0px 5px;
+}
+
+.line7 {
+    display: grid;
+    grid-template-columns: auto ;
+    width: 100%;
+    height: 100PX;
+    gap:  5px;
+}
+
+.line1 {
+    background-color: dodgerblue;
+}
+
+.line7 {
+    background-color: dodgerblue;
+}
+
+.l2b1 {
+    background-color: dodgerblue;
+}
+
+.l2b2 {
+    background-color: dodgerblue;
+}
+
+.l3b1 {
+    background-color: dodgerblue;
+}
+.l3b2 {
+    background-color: dodgerblue;
+}
+.l3b3 {
+    background-color: dodgerblue;
+}
+
+.l4b1 {
+    background-color: dodgerblue;
+}
+
+.l4b2 {
+    background-color: dodgerblue;
+}
+.l4b3 {
+    background-color: dodgerblue;
+}
+.l4b4 {
+    background-color: dodgerblue;
+}
+.l5b1 {
+    background-color: dodgerblue;
+}
+.l5b2 {
+    background-color: dodgerblue;
+}
+.l5b3 {
+    background-color: dodgerblue;
+}
+.l5b4 {
+    background-color: dodgerblue;
+}
+.l5b5 {
+    background-color: dodgerblue;
+}
+.l6b1 {
+    background-color: dodgerblue;
+}
+.l6b2 {
+    background-color: dodgerblue;
+}
+.l6b3 {
+    background-color: dodgerblue;
+}
+.l6b4 {
+    background-color: dodgerblue;
+}
+.l6b5 {
+    background-color: dodgerblue;
+}
+.l6b6 {
+    background-color: dodgerblue;
+}
